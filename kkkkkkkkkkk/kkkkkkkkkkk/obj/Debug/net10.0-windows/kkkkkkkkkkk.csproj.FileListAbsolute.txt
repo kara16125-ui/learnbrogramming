@@ -1,0 +1,17 @@
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\bin\Debug\net10.0-windows\kkkkkkkkkkk.exe
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\bin\Debug\net10.0-windows\kkkkkkkkkkk.deps.json
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\bin\Debug\net10.0-windows\kkkkkkkkkkk.runtimeconfig.json
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\bin\Debug\net10.0-windows\kkkkkkkkkkk.dll
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\bin\Debug\net10.0-windows\kkkkkkkkkkk.pdb
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.AssemblyInfoInputs.cache
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.AssemblyInfo.cs
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.csproj.CoreCompileInputs.cache
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.dll
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\refint\kkkkkkkkkkk.dll
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.pdb
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.genruntimeconfig.cache
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\ref\kkkkkkkkkkk.dll
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkk.AF03EC12.Up2Date
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.csproj.GenerateResource.cache
+D:\LEARN BROGRAMMING ALL\kkkkkkkkkkk\kkkkkkkkkkk\obj\Debug\net10.0-windows\kkkkkkkkkkk.P.resources
